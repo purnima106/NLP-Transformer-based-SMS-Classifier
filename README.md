@@ -60,9 +60,9 @@ Tokenization & stopword removal ✅
 
 TF-IDF + Classical ML models ✅
 
-DistilBERT embeddings 🚧 (in progress)
+DistilBERT embeddings 
 
-Evaluation and visualization 🚧 (upcoming)
+Evaluation
 
 Future Work
 Add Named Entity Recognition (NER) and sentiment analysis pipelines.
